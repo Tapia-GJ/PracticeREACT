@@ -35,6 +35,8 @@ describe("multiplicación", () => {
   });
   test("debe devolver 7*5", () => {
     const result = multiply(7, 5);
+
+    tyttty;
     expect(result).toBe(35);
   });
 });
