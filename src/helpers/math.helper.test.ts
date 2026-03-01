@@ -37,6 +37,7 @@ describe("multiplicación", () => {
     const result = multiply(7, 5);
 
     tyttty;
+    errere;
     expect(result).toBe(35);
   });
 });
